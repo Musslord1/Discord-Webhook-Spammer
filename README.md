@@ -1,5 +1,9 @@
 # Webhook_Spammer
-Webhook Spammer for Discord. you can spamm discord server
+Webhook Spammer for Discord. you can spamm discord server 
+
+Discord : Musslord#1558
+
+Socials : https://feds.lol/musslord
 
 # Preview
 
@@ -20,6 +24,13 @@ Download The zip
 ![Screenshot_20221224_222330](https://user-images.githubusercontent.com/120744195/209451332-01acd719-5ced-476a-b1a3-72c8d5293848.png)
 
 +
+
+Extract the file 
+
+![Screenshot_20221224_224357](https://user-images.githubusercontent.com/120744195/209451666-cb6cd902-d1cc-48ae-87d9-34bee89e9716.png)
+
++
+
 
 And Open  '' Install(first) ''
 
