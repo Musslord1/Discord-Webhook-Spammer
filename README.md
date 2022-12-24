@@ -1,4 +1,4 @@
-# Webhook_Spammer
+# Discord-Webhook-spammer
 Webhook Spammer for Discord. you can spamm discord server 
 
 Discord : Musslord#1558
